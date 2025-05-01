@@ -1,4 +1,3 @@
-# Credit-Card-Approval-Prediction-Using-Machine-Learning
 # Credit Card Approval Prediction Using Machine Learning
 [![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-1.x-150458?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
